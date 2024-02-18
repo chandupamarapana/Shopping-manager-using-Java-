@@ -1,0 +1,5 @@
+Electronics , A100, TV, 30, 800.0, Samsung, 2
+Clothing , A101, tshirt, 2, 1000.0, xl, black
+Electronics , A102, fan, 10, 15000.0, phillips, 1
+Electronics , A110, laptop, 10, 100000.0, hp, 2
+Clothing , A200, short, 1, 500.0, small, green
